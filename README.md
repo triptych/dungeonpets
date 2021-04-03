@@ -1,6 +1,6 @@
 # Dungeon Pets
 
-https://observablehq.com/@triptych/dungeon-pets@3
+https://observablehq.com/@triptych/dungeon-pets@6
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/1ccefcf02271cb39@3.tgz?v=3
+npm install https://api.observablehq.com/d/1ccefcf02271cb39@6.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
