@@ -2,6 +2,8 @@
 
 https://observablehq.com/@triptych/dungeon-pets@6
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d89d0042-072c-4b50-a943-f616d0e4c0db/deploy-status)](https://app.netlify.com/sites/dungeonpets/deploys)
+
 View this notebook in your browser by running a web server in this folder. For
 example:
 
